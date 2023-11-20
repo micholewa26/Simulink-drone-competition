@@ -16,8 +16,6 @@ Simulink 3D Animation™
 
 Hardware:
 
-PARROT® Minidrone
+PARROT® Minidrone Rolling SpiderMambo (supported as of January 2018
 
-Rolling Spider
-
-Mambo (supported as of January 2018
+Download:Simulink Support Package for Parrot Minidrones  after downloading all packages to run simulation you need to execute this command: openProject('asbQuadcopter');
