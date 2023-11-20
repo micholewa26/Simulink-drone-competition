@@ -1,6 +1,6 @@
 # Simulink-drone-competition
 Repository of Students from KNR who attend in mathwork simulink software 
-Software:/n
+Software:\n
 MATLAB R2017b
 Simulink®
 Simulink Support Package for PARROT® Minidrones (v.17.2.1 or higher)
