@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Category Location="FileClassCategory">
+    <Label Location="16ba957b-7e8b-47f7-8de3-b36a26eafd6f">
+        <Info Name="Calibration Data" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="e4a59034-5a93-4fee-805c-e7aec2b6c019">
+        <Info Name="Test" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="design">
+        <Info Name="Design" ReadOnly="READ_ONLY"/>
+    </Label>
+    <Label Location="convenience">
+        <Info Name="Convenience" ReadOnly="READ_ONLY"/>
+    </Label>
+    <Label Location="other">
+        <Info Name="Other" ReadOnly="READ_ONLY"/>
+    </Label>
+    <Label Location="artifact">
+        <Info Name="Artifact" ReadOnly="READ_ONLY"/>
+    </Label>
+    <Label Location="81b9fd9b-0663-4057-9e72-c8e13cac241e">
+        <Info Name="Code Generation" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="f0ddb48e-5a47-40ba-bfbe-fcb52689c448">
+        <Info Name="Image Processing" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="1c044bc9-448b-4104-b0e2-acd2eaa560dd">
+        <Info Name="Visualization" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="none">
+        <Info Name="None" ReadOnly="READ_ONLY"/>
+    </Label>
+    <Label Location="b48e7216-3381-44bd-9ee7-ab7979645a9b">
+        <Info Name="Airframe Design" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="derived">
+        <Info Name="Derived" ReadOnly="READ_ONLY"/>
+    </Label>
+    <Label Location="73e2d482-a604-484e-b859-cc54480a6bd9">
+        <Info Name="Trajectory Generation" ReadOnly="WRITABLE"/>
+    </Label>
+    <Label Location="527cb8e2-1296-409c-bf21-52c7d1ae5725">
+        <Info Name="Flight Controller Design" ReadOnly="WRITABLE"/>
+    </Label>
+    <Info DataType="None" Name="Classification" ReadOnly="1" SingleValued="1"/>
+</Category>
